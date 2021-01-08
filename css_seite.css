@@ -1,0 +1,176 @@
+
+
+
+/*menu*/
+.nav {
+    margin-top: 3em;
+    font-family: monospace;
+    font-size: 1.4em;
+    
+}
+.nav-item{
+    margin: 0.5em;
+
+    
+}
+.nav-link{
+    color:#343A40;
+}
+.img_1{
+    border-radius: 15em;
+    
+}
+.img_0{
+    margin-left:15px;
+   
+
+}
+
+
+/* seite anfang */
+#panel{
+    padding-bottom: 2.5em;
+}
+.card-img-overlay{
+    color: black;
+    font-size: 22px;
+    font-family: monospace;
+
+
+}
+#Gesund{
+    font-size: 25px;
+}
+#zaglv{
+    margin: 1.5em;
+}
+#h5_1{
+ 
+    font-size: 40px;
+    text-align: center;
+}
+#text_1{
+    font-size: 18px;
+}
+#pr{
+    margin-top: 3.5em;
+    margin-bottom: 3.5em;
+}
+
+#img{
+    margin: 2.5em;
+    
+}
+#table{
+    margin-top: 3em;
+   
+}
+
+
+#nomer{
+    font-size: 25px;
+    margin-left: 2em;
+}
+#gmail{
+    font-size: 25px;
+    margin-left: 2em;
+}
+
+#zeit{
+    font-family: monospace;
+    text-align: center;
+}
+#zeite_1{
+    padding-top: 2em;
+}
+.icon_1{
+    padding: 1.5em;
+   
+    list-style: none;
+}
+#fa_icon{
+    padding-left: 0.8em;
+    padding-bottom: 0.3em;
+    text-align: center;
+
+}
+.carousel{
+    padding-left: 3.5em;
+    margin-right: 2.7em;
+}
+#prr{
+    margin-top: 5em;
+}
+.sostav{
+    margin-top: 5em;
+    display: flex;
+    flex-direction: row;
+   
+}
+#sos_1{
+    margin: 5em;
+}
+.Struktur{
+    display: flex;
+    flex-direction: row;
+padding: 5em;
+margin-left: 2.5em;
+    
+}
+#ss2{
+    margin-left: 3.5em;
+}
+#ss1{
+    margin-right: 3.5em;
+}
+
+
+
+#dark{
+    background-color: #343A40;
+}
+.futer_row1{
+    display: flex;
+    flex-direction: row;
+    color: white;
+   
+}
+.futer_row2{
+    padding-top: 4em;
+    margin-left: 2em;
+
+}
+.futer_row3{
+ 
+     padding-left: 5em;
+     padding-top: 0.5em;
+     font-size: 16px;
+     list-style: none;
+}
+.icon_row{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+#icon_row2{
+    padding: 0.5em;
+
+}
+#row_fa{
+    padding: 1em;
+}
+#text_row{
+    padding-left: 0.8em;
+}
+#text_kont{
+    color: #7D7D7D;
+    margin: 1em;
+}
+#fa_1{
+    margin-left: 0.5em;
+}
+#text_row9{
+    padding-top: 0.5em;
+    padding-left: 8em;
+}
